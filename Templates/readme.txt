@@ -1,1 +1,4 @@
 These templates were/are being used to produce posters, talks, shirts, etc for InPTA
+
+
+PLEASE CHANGE THE INSTITUTE LOGOS ON THE POSTER TEMPLATE WITH THE LOGOS OF INSTITUTES OF PARTICIPATING MEMBERS OF THE PROJECT.
